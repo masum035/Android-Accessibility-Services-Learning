@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Learning_Service</string>
+    <string name="background_service_label">Testing The Background Service</string>
+    <string name="foreground_service_label">Testing The Foreground Service</string>
+</resources>
